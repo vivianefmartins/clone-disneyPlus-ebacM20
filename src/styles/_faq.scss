@@ -7,6 +7,7 @@
     }
 
     &__questions {
+
         &__item {
             background-color: #13151d;
             margin-bottom: 16px;
@@ -39,7 +40,6 @@
 
                 &__answers {
                     li {
-                        list-style: none;
                         margin-top: 30px;
                         margin-left: 30px;
                     }
